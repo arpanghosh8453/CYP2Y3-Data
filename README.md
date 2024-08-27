@@ -1,3 +1,5 @@
+![](images/384-well-plate-arrangement.png)
+
 ```python
 import pandas as pd
 from glob import glob
@@ -655,7 +657,7 @@ final_df.plot.scatter(x='R1',y='R2')
 
 
     
-![png](2Y3_HTS_analysis_complete_files/2Y3_HTS_analysis_complete_10_1.png)
+![png](images/compare_r1_r2.png)
     
 
 
